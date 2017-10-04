@@ -6,5 +6,3 @@
 Rscript -e 'install.packages("tidyverse", repos="http://cran.csiro.au/")'
 
 echo 'Updates complete!'
-echo 'Press enter to finish'
-read
